@@ -1,4 +1,4 @@
-# OIBSIP_Python_Task3 – Random Password Generator
+# Random Password Generator
 
 ## 🎯 Objective
 The objective of this project is to build a **Random Password Generator** in Python that allows users to generate secure passwords with customizable options and automatically copy them to the clipboard.
@@ -26,3 +26,4 @@ The objective of this project is to build a **Random Password Generator** in Pyt
 OIBSIP_Python_Task3/  
 │── password_generator.py   # Main Python code  
 │── README.md               # Project documentation  
+
